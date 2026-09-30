@@ -161,14 +161,15 @@ Fill in `ARCHITECTURE.md`: a diagram plus a few short paragraphs. Specific beats
 
 ## Submitting
 
-Reply to the person who sent you this with:
+Submit through this form when you're done: **https://forms.gle/9yCuPu5gwd76aqKq7**
 
-1. **A link to your GitHub repo** (public, or private and shared with us).
-2. **A README section** covering:
+1. **Make your GitHub repo private** and invite our reviewers, `wardch` and `alinayevstropova`.
+2. **Add a README section** to your repo covering:
    - how to run it (both `npm run dev` and `docker-compose.prod.yml`) and any setup steps we need
    - your key decisions and trade-offs
    - what you'd do with more time
    - where AI tools helped and where you had to step in
+3. **Fill in the form** with your repo link, your Azure deployment URL (or "not deployed" and why), when you started, and your contact details. It takes a minute or two. Please don't put secrets or API keys in the form.
 
 ## What we look at
 
